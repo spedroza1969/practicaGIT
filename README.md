@@ -1,0 +1,2 @@
+# practicaGIT
+Mi primer repositorio
